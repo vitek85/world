@@ -27,7 +27,21 @@ h2 {
     font-size: 20px;
     font-weight: 300;
     text-align: center;
-    padding: 0 40px;
-    
+    padding: 10px 40px;
+    line-height: 35px;
+
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: darkslateblue;
+    border-radius: 50%;
 }
 
