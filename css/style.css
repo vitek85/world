@@ -1,0 +1,23 @@
+body, html {
+    background-color: beige;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0; 
+}
+
+h1 {
+    color:chocolate;
+    font-weight: 700;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h2 {
+    color:darkcyan;
+    text-align: center;
+    
+}
+
